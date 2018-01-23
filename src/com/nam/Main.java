@@ -8,6 +8,7 @@ public class Main {
         System.out.println("wtf");
 
         main2();
+        main2();
     }
 
     public static void main2()
