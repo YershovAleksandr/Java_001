@@ -12,7 +12,7 @@ class Main
     {
         int num;
 
-        num = 100;
+        num = 500;
 
         System.out.println("Num = " + num);
 
