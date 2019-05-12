@@ -1,9 +1,5 @@
 .idea/
-<<<<<<< HEAD
 build/
 out/
 target/
 *.iml
-=======
-*.class
->>>>>>> 0693ceb58a74721ccbb3f4d2d344ce9bd06417c4
