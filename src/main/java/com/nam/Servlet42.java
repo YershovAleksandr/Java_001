@@ -15,7 +15,7 @@ public class Servlet42 extends HttpServlet {
     private String responseTemplate = "" +
             "<html>\n" +
             "<body>\n" +
-            "<h4>RTFM!</h4>\n" +
+            "<h4>RTFM !!</h4>\n" +
             "</body>" +
             "</html>";
 
